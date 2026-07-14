@@ -1,4 +1,4 @@
-# Practical Machine Learning Project
+# Practical Machine Learning Course Project
 Dinesh Gautam  
 May 17, 2016  
 
